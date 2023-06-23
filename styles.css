@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-body{
+.holder{
 	width:100vw;
 	height:100vw;
 	display: flex;
